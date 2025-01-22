@@ -1,5 +1,5 @@
 <?php
-require '../src/database.php';
+require 'src/database.php';
 
 $conn = getDatabaseConnection();
 
